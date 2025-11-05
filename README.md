@@ -28,7 +28,8 @@
 
 **KEY INSIGHT 1: Average Cost of Living by Region**
 
-<img width="362" height="218" alt="image" src="https://github.com/user-attachments/assets/cd44a9e3-71db-44f3-954e-3eef330e4814" />
+<img width="392" height="216" alt="image" src="https://github.com/user-attachments/assets/bdded253-fb3d-4acc-93ec-9df4bc4cef2a" />
+
 
 This chart illustrates the average cost of living across different regions.										
 At about 191,000, North America has the highest cost of living, followed by Asia at about 171,000 and Europe at about 160,000.							Africa (71,000) and South America (57,000) have the lowest expenses, indicating more cheap living circumstances, while Oceania is in the middle with about 86,000.	
